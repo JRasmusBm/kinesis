@@ -1,0 +1,11 @@
+#!/bin/sh
+
+set -e
+
+_setup_kinesis() {
+  for f in ./*.txt ; do
+    cp "$f" "/media/jrasmusbm/ADVANTAGE2/active"
+  done
+}
+
+_setup_kinesis "$@"
