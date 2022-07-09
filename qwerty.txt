@@ -1,0 +1,6 @@
+[caps]>[escape]
+[kp-caps]>[kp-escape]
+[end]>[delete]
+[delete]>[rwin]
+[kp-delete]>[kp-rwin]
+[rwin]>[delete]
