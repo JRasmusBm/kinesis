@@ -4,3 +4,4 @@
 [delete]>[rwin]
 [kp-delete]>[kp-rwin]
 [rwin]>[delete]
+{lalt}{;}>{ö}

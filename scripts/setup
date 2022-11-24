@@ -4,7 +4,7 @@ set -e
 
 _setup_kinesis() {
   for f in ./*.txt ; do
-    cp "$f" "/media/jrasmusbm/ADVANTAGE2/active"
+    cp "$f" "/media/jrasmusbm/KINESIS/active"
   done
 }
 
